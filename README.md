@@ -1,0 +1,1 @@
+This Python program simulates a simple e-book reader system that allows users to view, purchase, and read books from a catalog of public domain titles. It uses a Book class to represent individual books and an EbookReader class to manage the user's interaction with the catalog and their personal library.
